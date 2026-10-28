@@ -1,0 +1,46 @@
+[
+    {
+        "id": "evt_501",
+        "title": "First Quarter Honor Roll Ceremony",
+        "category": "Academic",
+        "start_date": "2026-10-30",
+        "end_date": "2026-10-30",
+        "time": "09:00 AM - 10:30 AM",
+        "location": "Main Auditorium & Campus Quad",
+        "description": "Honoring our Lower, Middle, and Upper School scholars for first-quarter academic excellence and citizenship.",
+        "is_public": true
+    },
+    {
+        "id": "evt_502",
+        "title": "Open House & Campus Showcase",
+        "category": "Admissions",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "time": "10:00 AM - 01:00 PM",
+        "location": "Mid Florida Scholars Academy Campus",
+        "description": "Prospective families are invited to meet faculty, tour our 12:1 classrooms, and learn about Step Up scholarships.",
+        "is_public": true
+    },
+    {
+        "id": "evt_503",
+        "title": "Thanksgiving Break (No School)",
+        "category": "Holiday",
+        "start_date": "2026-11-23",
+        "end_date": "2026-11-27",
+        "time": "All Day",
+        "location": "All Campus Facilities Closed",
+        "description": "School closed in observance of Thanksgiving. Classes resume Monday, November 30.",
+        "is_public": true
+    },
+    {
+        "id": "evt_504",
+        "title": "Dual Enrollment Spring 2027 Advising Day",
+        "category": "College Prep",
+        "start_date": "2026-12-04",
+        "end_date": "2026-12-04",
+        "time": "01:00 PM - 03:30 PM",
+        "location": "College Counseling Office",
+        "description": "Advising session for Upper School students registering for Valencia College spring courses.",
+        "is_public": true
+    }
+]

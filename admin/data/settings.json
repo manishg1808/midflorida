@@ -1,0 +1,15 @@
+{
+    "school_name": "Mid Florida Scholars Academy",
+    "tagline": "Private K-12 College Preparatory Academy",
+    "phone": "(407) 757-2241",
+    "email": "info@midfloridascholarsacademy.com",
+    "admissions_email": "admissions@midfloridascholarsacademy.com",
+    "campus_address": "2342 Hempel Avenue, Gotha, FL 34734",
+    "mailing_address": "P.O. Box 1159, Windermere, FL 34786",
+    "portal_url": "https://midflorida.getalma.com/",
+    "academic_year": "2026-2027",
+    "admin_username": "admin",
+    "admin_password_hash": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "notifications_enabled": true,
+    "tour_capacity_per_slot": 3
+}

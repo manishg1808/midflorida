@@ -1,0 +1,35 @@
+[
+    {
+        "id": "post_601",
+        "title": "The Research On Class Size and Student Achievement",
+        "slug": "research-on-class-size-student-achievement",
+        "category": "Education Insights",
+        "author": "Brenda Crenshaw, Head of School",
+        "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=80",
+        "excerpt": "Decades of empirical studies confirm what experienced educators know: smaller class ratios unlock deeper cognitive engagement and self-efficacy.",
+        "status": "Published",
+        "created_at": "2026-09-28 10:00:00"
+    },
+    {
+        "id": "post_602",
+        "title": "How Dual Enrollment Transforms the High School Experience",
+        "slug": "how-dual-enrollment-transforms-high-school",
+        "category": "College Prep",
+        "author": "Tanya Williams, Principal",
+        "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+        "excerpt": "Graduating high school with 30 to 60 college credit hours saves families tens of thousands while building proven college confidence.",
+        "status": "Published",
+        "created_at": "2026-10-05 14:30:00"
+    },
+    {
+        "id": "post_603",
+        "title": "Navigating Step Up For Students Scholarships in 2026-2027",
+        "slug": "navigating-step-up-for-students-florida",
+        "category": "Admissions & Tuition",
+        "author": "Admissions Office",
+        "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=1200&q=80",
+        "excerpt": "A practical walkthrough of Florida educational vouchers including PEP, FES-EO, and FES-UA for Central Florida families.",
+        "status": "Published",
+        "created_at": "2026-10-12 11:15:00"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "test_701",
+        "author": "Dr. Robert & Melissa Vance",
+        "role": "Parents of 8th & 11th Graders",
+        "stars": 5,
+        "featured": true,
+        "quote": "Mid Florida Scholars Academy provided the customized environment our son needed to excel both in honors coursework and on the national tennis circuit. The faculty is genuinely invested.",
+        "source": "Niche 5-Star Review"
+    },
+    {
+        "id": "test_702",
+        "author": "Marcus Sterling",
+        "role": "Alumnus, Class of 2022 (UF Honors)",
+        "stars": 5,
+        "featured": true,
+        "quote": "Entering college with 45 dual enrollment credits allowed me to finish my undergraduate degree in two and a half years. The foundation I received here was second to none.",
+        "source": "Alumni Survey"
+    },
+    {
+        "id": "test_703",
+        "author": "Elena G. (Windermere)",
+        "role": "Parent of 3rd Grader",
+        "stars": 5,
+        "featured": true,
+        "quote": "The 12:1 student-to-teacher ratio is not just marketing—it is the everyday reality. My daughter has grown in confidence, reading speed, and critical thinking.",
+        "source": "Google Review"
+    }
+]

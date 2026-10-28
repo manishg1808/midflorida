@@ -1,0 +1,46 @@
+[
+    {
+        "id": "inq_201",
+        "name": "Jennifer Morales",
+        "email": "jennifer.morales@yahoo.com",
+        "phone": "(407) 555-0814",
+        "subject": "Step Up For Students Scholarship Application Assistance",
+        "message": "Hello, we were awarded the Florida PEP scholarship for the current academic year and want to know how the tuition voucher applies to 7th grade at Mid Florida Scholars Academy.",
+        "grade": "Grade 7",
+        "status": "New",
+        "created_at": "2026-10-19 10:14:00"
+    },
+    {
+        "id": "inq_202",
+        "name": "Robert Taylor",
+        "email": "rtaylor@taylorinvest.com",
+        "phone": "(407) 555-0441",
+        "subject": "Flexible Enrollment for Equestrian Athlete",
+        "message": "Our daughter competes in equestrian events nationally in Wellington and Ocala. We are interested in your Professional Program schedule to accommodate her winter show circuit.",
+        "grade": "Grade 10",
+        "status": "In Progress",
+        "created_at": "2026-10-18 16:50:00"
+    },
+    {
+        "id": "inq_203",
+        "name": "Angela Dupont",
+        "email": "angela.dupont@orange.k12.fl.us",
+        "phone": "(407) 555-0925",
+        "subject": "Mid-Year Transfer Inquiry for Kindergarten",
+        "message": "Are there any remaining kindergarten seats open for January enrollment? We are relocating to Gotha next month and would love to register our son.",
+        "grade": "Kindergarten",
+        "status": "Contacted",
+        "created_at": "2026-10-16 11:20:00"
+    },
+    {
+        "id": "inq_204",
+        "name": "Carlos & Beatriz Mendez",
+        "email": "bmendez@mendezlaw.com",
+        "phone": "(321) 555-0158",
+        "subject": "International Student I-20 Form Question",
+        "message": "We are sponsoring our nephew from Colombia for high school attendance on an F-1 student visa. Does Mid Florida Scholars Academy issue the Form I-20?",
+        "grade": "Grade 9",
+        "status": "Enrolled",
+        "created_at": "2026-10-12 14:05:00"
+    }
+]

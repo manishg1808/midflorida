@@ -1,0 +1,42 @@
+[
+    {
+        "id": "fac_801",
+        "name": "Brenda Crenshaw",
+        "role": "Founder & Head of School",
+        "department": "Administration",
+        "email": "bcrenshaw@midfloridascholarsacademy.com",
+        "phone": "(407) 757-2241",
+        "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=80",
+        "bio": "Founder of Mid Florida Scholars Academy; author of Average Student to CEO; educational innovator with 30+ years mentoring leaders."
+    },
+    {
+        "id": "fac_802",
+        "name": "Tanya Williams",
+        "role": "Principal",
+        "department": "Administration",
+        "email": "twilliams@midfloridascholarsacademy.com",
+        "phone": "(407) 757-2241",
+        "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+        "bio": "Serving Mid Florida Scholars Academy since 2004; expert in curriculum mapping, college placement, and SACS accreditation."
+    },
+    {
+        "id": "fac_803",
+        "name": "Dr. Julian Foster",
+        "role": "Upper School STEM & Dual Enrollment Lead",
+        "department": "Upper School",
+        "email": "jfoster@midfloridascholarsacademy.com",
+        "phone": "(407) 757-2241",
+        "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+        "bio": "Ph.D. in Applied Mathematics; coordinating university-level calculus, physics, and advanced research programs."
+    },
+    {
+        "id": "fac_804",
+        "name": "Maria Santos",
+        "role": "Lower School Lead & Bilingual Specialist",
+        "department": "Lower School",
+        "email": "msantos@midfloridascholarsacademy.com",
+        "phone": "(407) 757-2241",
+        "photo": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&w=600&q=80",
+        "bio": "Specializing in early literacy, phonics mastery, and dual language immersion from Kindergarten through Grade 5."
+    }
+]

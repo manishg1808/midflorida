@@ -1,0 +1,12 @@
+HTTP/1.1 403 Forbidden
+Content-Type: application/xml; charset=UTF-8
+X-GUploader-UploadID: AP6rU83__dZkzCqQTfkDlaapN3eolnigPB1JdEPrpgFOcMWZgSoodZoQMpyXxOu1CtBaYCz45bgF504
+Content-Length: 397
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: origin, range
+Date: Thu, 22 Oct 2026 16:51:23 GMT
+Expires: Thu, 22 Oct 2026 16:51:23 GMT
+Cache-Control: private, max-age=0
+Server: UploadServer
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
